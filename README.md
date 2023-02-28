@@ -1,10 +1,10 @@
 # HH_project
 
--    [1 Projects description](https://github.com/mLiverinova/HH_project/blob/main/README.md#project_description-2)
--    [2 What case is solving](https://github.com/mLiverinova/HH_project/blob/main/README.md#what-case-is-solving-2)
--    [3 Data information](https://github.com/mLiverinova/HH_project/blob/main/README.md#data-information-2)
--    [4 Stages of the project](https://github.com/mLiverinova/HH_project/blob/main/README.md#stages-of-the-project-2)
--    [5 Result](https://github.com/mLiverinova/HH_project/blob/main/README.md#result-2)
+-    [1 Projects description](https://github.com/mLiverinova/HH_project/blob/main/README.md#project_description)
+-    [2 What case is solving](https://github.com/mLiverinova/HH_project/blob/main/README.md#what-case-is-solving)
+-    [3 Data information](https://github.com/mLiverinova/HH_project/blob/main/README.md#data-information)
+-    [4 Stages of the project](https://github.com/mLiverinova/HH_project/blob/main/README.md#stages-of-the-project)
+-    [5 Result](https://github.com/mLiverinova/HH_project/blob/main/README.md#result)
 
 #### Project_description
 This project contains the preparation, processing and analysis of the HeadHunter database
